@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@OMEGA_GD)
 
-- 🤝 I’m looking for help with **Any Thing you can help with**
+- 🤝 I’m looking for help with **My Github Readme**
 
 - 💬 Ask me about **Anything**
 
@@ -69,10 +69,10 @@
 	
 </div>
 	
+[![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+	
    ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
 <div align="center">	
 	
