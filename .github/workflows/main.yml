@@ -19,6 +19,6 @@ jobs:
         include-logo: false
         hide-keys: sponsoring, sponsors
         max-languages: 100
-        animated-language-chart: true
+        animated-language-chart: false
       env:
         GITHUB_TOKEN: ${{secrets.GH_TOKEN}}
