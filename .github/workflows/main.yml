@@ -16,7 +16,7 @@ jobs:
       uses: cicirello/user-statistician@v1
       with:
         colors: dark-dimmed
-        custom-title: My GitHub Statistics
+        include-logo: false
         hide-keys: sponsoring, sponsors
         max-languages: 100
         animated-language-chart: true
