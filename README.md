@@ -23,7 +23,7 @@
 	  
 - 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6404/OMEGA6404)
 
-- 🌱 I’m currently learning **C#, C and PHP**
+- 🌱 I’m currently learning **DC.js, C and PHP**
 
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@OMEGA_GD)
 
