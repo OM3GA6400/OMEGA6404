@@ -79,6 +79,3 @@
 	
   <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" hight="200px"/></a>
   <br/>
-
-<h12>
-Copyright © 1991, 1999 Free Software Foundation, Inc.
