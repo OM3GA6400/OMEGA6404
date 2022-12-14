@@ -10,8 +10,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-
-    - name: Get major version num and update tag
+    
+    - name: user-statistician
       run: |
         VERSION=${GITHUB_REF#refs/tags/}
         MAJOR=${VERSION%%.*}
