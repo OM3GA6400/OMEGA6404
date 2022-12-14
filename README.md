@@ -1,114 +1,83 @@
-# python-github-action-template
-A template repository for GitHub Actions implemented in Python.
+![](https://hit.yhype.me/github/profile?user_id=98067930)
 
-## Files in This Template
+ <h3 align="center">
+  Hi, I'm OMEGA
+ 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ 
+ <h4 align="center"> Pronouns: He/Him </h4>
+ 
+ <p align="center"> <img src="https://img.shields.io/badge/Discord-OMEGA6400__%231510-red/?logo=discord&color=7289DA" alt="omega6404" /> </p>
+ 
+  <dt>
+          <dt>
+            <p align="center">
+        <a href="https://www.youtube.com/@OMEGA_GD?sub_confirmation=1">
+  <img alt="youtube views" title="YouTube Views" alt="youtube views" src="https://img.shields.io/youtube/channel/views/UC7gbySU8XeK1JY8zZOvRJRQ?style=social"/></a> 
+        </dt>
 
-### README.md
+  <h3 align="center">Best 7th grader in Robious Middle School</h3>
+ 
+  <p align="center">
+<a align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5250&pause=900&color=39FF14&center=true&width=550&lines=%F0%9F%91%8B+Hi%2C+i'm+OMEGA!;I+mainly+use+Javascript%2C+HTML+and+CSS.+%F0%9F%96%A5;I'm+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;I+would+love+to+collaborate!+%F0%9F%A4%9D;Please+star+your+favorite+repos+of+mine.+%F0%9F%8C%9F;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks++for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
+	  
+- 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6404/OMEGA6404)
 
-Obviously, update this to reflect your GitHub Action.
+- 🌱 I’m currently learning **C#, C and PHP**
 
-### LICENSE
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/@OMEGA_GD)
 
-Choose your license.  This template is licensed under the MIT license,
-so that is what the LICENSE file indicates. If you use this template,
-either keep the MIT license or update to something compatible.
+- 🤝 I’m looking for help with **Any Thing you can help with**
 
-### CHANGELOG.md
+- 💬 Ask me about **Anything**
 
-It is a good idea to keep a changelog, so we've provided a template
-of a changelog within this template repository.
+- 📫 How to reach me **Jackguiveroulie@gmail.com**
 
-### dockerignore
+- ⚡ Fun fact **I can solve a Rubix cube**
 
-The `.dockerignore` is set up as a whitelist, initially 
-allowing only the `Dockerfile` and the `entrypoint.py`.
-If you rename `entrypoint.py`, be sure to edit 
-the `.dockerignore` (or likewise, if your GitHub Action
-needs any additional files while running).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/@OMEGA_GD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc7gbysu8xek1jy8zzovrjrq?" height="30" width="40" /></a>
+</p>
 
-### gitignore
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+ 
+  ## 🔥 Streak stats
 
-The `.gitignore` includes Python related things you likely
-won't want to store in git (update as appropriate).
+  <p align="Middle">
+  <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
+	
+  ## 🏆 Awards
 
-### Dockerfile
+ [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&margin-w=35)](https://github.com/ryo-ma/github-profile-trophy)
+      
+  ## 📊 Github Stats
+     
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=8&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
+  <br/>
+   
+   ## Github Summary Cards
+   
+<div align="center">
+	
+[![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+	
+</div>
+	
+   ## 📈 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-The `Dockerfile` in this template pulls an image that
-includes Python, and then sets the entrypoint to `entrypoint.py`.
-If you rename `entrypoint.py` (or need additional files) then
-don't forget to edit the `Dockerfile`.
+[![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 
-Additionally, you will need to decide which docker image to start
-with. There are two that I commonly use that I also maintain,
-both of which can be pulled from either Docker Hub or the Github Container
-Registry. Uncomment/comment as appropriate in the Dockerfile
-as desired. Or if you'd rather not pull one of my images, you can 
-see the source repository for the details.  Here are the options
-found in the Dockerfile comments:
-* An image with Alpine Linux and Python only to keep image small for fast loading: `FROM cicirello/pyaction-lite:3`
-* An image with Alpine Linux, Python, and git, which is also relatively small: `FROM cicirello/pyaction:3`
-* Beginning with version 4, the pyaction image no longer uses Alpine as the 
-  base. It now uses python:3-slim, which is built on Debian (the slim version is 
-  small but not nearly as small as Alpine), on
-  which we have installed the GitHub CLI : `FROM cicirello/pyaction:4`
-* To pull from the Github Container Registry instead of Docker Hub: `FROM ghcr.io/cicirello/pyaction:4` (and likewise for the other images).
+<div align="center">	
+	
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img alt="Readme Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" hight="200px"/></a>
+  <br/>
 
-The source repositories for these images:
-* https://github.com/cicirello/pyaction-lite
-* https://github.com/cicirello/pyaction
-
-### action.yml
-
-Edit the `action.yml` file to define your action's inputs and outputs
-(see examples in the file).
-
-### entrypoint.py
-
-You can rename this Python file to whatever you want, provided you change
-its name in all other files above that reference it.  The template version
-includes examples of accessing Action inputs and producing outputs.  Make
-sure it is executable (the one in the template is already executable). If
-you simply rename the file, it should keep the executable bit set. However,
-if you delete it and replace it with a new file, you'll need to set it
-executable.
-
-### tests/tests.py
-
-Python unit test cases could go here.
-
-### tests/integration.py
-
-Ideally, after unit testing the Python functions, methods, 
-etc (see above), you should also test the action itself.
-This involves running the action locally in a workflow
-within the action's own repository. If the action generates
-any files, or alters any files, then you can add a step
-to run the tests in `tests/integration.py` to validate the
-action's output. Although you don't necessarily need to do
-this with Python, it may be convenient since Python would
-already be configured in your workflow. 
-
-### .github/dependabot.yml
-
-The template repository enables GitHub's dependabot for keeping dependencies up to date
-(it generates pull requests when new versions are found).  The template file
-enables dependabot for Docker (since we're using Docker for the GitHub Action),
-and GitHub Actions to keep any workflow dependencies up to date.
-
-### .github/workflows/build.yml
-
-This workflow runs on pushes and pull requests against the main branch. It
-executes all Python unit tests (see tests/tests.py section above). It verifies that
-the docker image for the GitHub Action builds. It then executes the GitHub Action
-locally against the action's own repository, as an integration test. Finally, it 
-executes the tests in `tests/integration.py` (see earlier section) to validate
-any files created or edited by the integration test. You might also add a step
-to the workflow to test that outputs are correct as well. 
-
-### .github/workflows/major-release-num.yml
-
-This workflow maintains a major release tag (e.g., v1 if current release 
-is v1.x.y). It runs on each release and either creates the tag (if this is the
-first release of a new major release number) or moves it if this is a minor
-or patch level release. __IMPORTANT: You must edit this with your name, etc in
-the commit and push step.__
+<h12>
+Copyright © 1991, 1999 Free Software Foundation, Inc.
