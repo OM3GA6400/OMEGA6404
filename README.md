@@ -49,17 +49,18 @@
   <a href="https://git.io/streak-stats"><img alt="OMEGA6403's Streak stats" src="https://github-readme-streak-stats.herokuapp.com?user=OMEGA6404&theme=github-dark-blue&hide_border=true"/></a>
 	
   ## 🏆 Awards
-
+<div align="center">
+	
  [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
+	
+	</div>
       
   ## 📊 Github Stats
      
-	  <div align="center">
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=8&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
-	</div>
   
   [![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
    
