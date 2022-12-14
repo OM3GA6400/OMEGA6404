@@ -58,6 +58,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=OMEGA6404&layout=compact&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="192px" width="450px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=8&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
+  
+  [![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
    
    ## Github Summary Cards
    
@@ -68,8 +70,6 @@
 [![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/OMEGA6404/Summary_Cards/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 	
 </div>
-	
-[![My GitHub Activity](images/userstats.svg)](https://github.com/cicirello/user-statistician)
 	
    ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
