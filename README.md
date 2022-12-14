@@ -50,7 +50,7 @@
 	
   ## 🏆 Awards
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
       
   ## 📊 Github Stats
      
