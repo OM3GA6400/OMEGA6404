@@ -19,7 +19,7 @@
   <h3 align="center">Best 7th grader in Robious Middle School</h3>
  
   <p align="center">
-<a align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5250&pause=900&color=39FF14&center=true&width=550&lines=%F0%9F%91%8B+Hi%2C+i'm+OMEGA!;I+mainly+use+C++%2C+Javascript+and+CSS.+%F0%9F%96%A5;I'm+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;I+would+love+to+collaborate!+%F0%9F%A4%9D;Please+star+your+favorite+repos+of+mine.+%F0%9F%8C%9F;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks++for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
+<a align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5250&pause=900&color=39FF14&center=true&width=550&lines=%F0%9F%91%8B+Hi%2C+i'm+OMEGA!;I+mainly+use+C++%2C+Javascript+and+Python.+%F0%9F%96%A5;I'm+completely+self-taught.+%F0%9F%93%9A;I+have+two+years+of+coding+experience.+%E2%8F%B0;I+would+love+to+collaborate!+%F0%9F%A4%9D;Please+star+your+favorite+repos+of+mine.+%F0%9F%8C%9F;Please+follow+me+if+you+enjoy+my+work.+%F0%9F%99%8F;Thanks++for+visiting+my+profile!+%F0%9F%99%8C" alt="Typing SVG" /></a>
 	  
 - 🔭 I’m currently working on [My Readme](https://github.com/OMEGA6404/OMEGA6404)
 
