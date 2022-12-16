@@ -75,6 +75,8 @@
 	
    ## 📈 Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OMEGA6404&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+	
+## 📜 Programming Quote
 
 <div align="center">	
 	
