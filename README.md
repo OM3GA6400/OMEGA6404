@@ -62,7 +62,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="OMEGA6404's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMEGA6404&langs_count=8&layout=compact&theme=github_dark&hide_border=true" height="192px" width="390px"/></a>
   <br/>
    
-   ## Github Summary Cards
+   ## 💳 Github Summary Cards
    
 <div align="center">
 	
