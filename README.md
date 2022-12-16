@@ -54,6 +54,7 @@
 <div align="center">
 	
  [![trophy](https://github-profile-trophy.vercel.app/?username=OMEGA6404&theme=darkhub&no-frame=true&row=1&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
+	</div>
       
   ## 📊 Github Stats
      
